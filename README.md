@@ -2,11 +2,10 @@
 
 ## 次にやること
 
-- firebase によるサインイン機能の追加
 - components の分割
-- Nuxt の document 勉強
+- Nuxt の Docs 勉強
 - 環境変数周りのベストプラクティス勉強
-- NuxtApp.$auth などが unknown になるエラーのデバッグ
+- typescript の設定周りの勉強/vscode の拡張機能についても
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
