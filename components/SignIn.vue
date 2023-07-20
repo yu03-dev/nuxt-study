@@ -58,6 +58,7 @@ const handleSubmit = async () => {
   if (await signIn(state.email, state.password)) {
     alert("ログインしました!");
     clear();
+    return navigateTo("/user");
   } else {
     alert("ログインに失敗しました");
   }
