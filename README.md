@@ -1,13 +1,5 @@
 # Nuxt 3 Minimal Starter
 
-## 次にやること
-
-- 開発環境において useState の値がページ遷移で消えるのはなぜか調べる
-- components の分割
-- Nuxt の Docs 勉強
-- 環境変数周りのベストプラクティス勉強
-- typescript の設定周りの勉強/vscode の拡張機能についても
-
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
